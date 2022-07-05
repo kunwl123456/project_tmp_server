@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../release/linux/Debug/libconfig.a CMakeFiles/config.dir/ngx_c_conf.cxx.o CMakeFiles/config.dir/ngx_string.cxx.o
+/usr/bin/ranlib ../../../release/linux/Debug/libconfig.a

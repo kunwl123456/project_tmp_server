@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../release/linux/Debug/liblogic.a CMakeFiles/logic.dir/ngx_c_slogic.cxx.o
+/usr/bin/ranlib ../../../release/linux/Debug/liblogic.a

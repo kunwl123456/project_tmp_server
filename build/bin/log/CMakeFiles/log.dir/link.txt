@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../release/linux/Debug/liblog.a CMakeFiles/log.dir/ngx_log.cxx.o CMakeFiles/log.dir/ngx_printf.cxx.o
+/usr/bin/ranlib ../../../release/linux/Debug/liblog.a

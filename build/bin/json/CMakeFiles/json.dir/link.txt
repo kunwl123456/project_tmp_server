@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../release/linux/Debug/libjson.a CMakeFiles/json.dir/cJSON.cxx.o
+/usr/bin/ranlib ../../../release/linux/Debug/libjson.a

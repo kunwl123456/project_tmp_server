@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../release/linux/Debug/libbase_lib.a CMakeFiles/base_lib.dir/rb_tree.cxx.o
+/usr/bin/ranlib ../../../release/linux/Debug/libbase_lib.a

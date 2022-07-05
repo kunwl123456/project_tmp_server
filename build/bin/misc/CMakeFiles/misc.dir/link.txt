@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../release/linux/Debug/libmisc.a CMakeFiles/misc.dir/ngx_c_crc32.cxx.o CMakeFiles/misc.dir/ngx_c_memory.cxx.o CMakeFiles/misc.dir/ngx_c_threadpool.cxx.o
+/usr/bin/ranlib ../../../release/linux/Debug/libmisc.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../release/linux/Debug/libserver_config.a CMakeFiles/server_config.dir/ss_game_app.cxx.o
+/usr/bin/ranlib ../../../release/linux/Debug/libserver_config.a

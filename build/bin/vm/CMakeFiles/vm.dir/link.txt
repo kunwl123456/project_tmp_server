@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../release/linux/Debug/libvm.a CMakeFiles/vm.dir/vm_common_alloc.cxx.o CMakeFiles/vm.dir/vm_page_pool.cxx.o CMakeFiles/vm.dir/vm_slab_alloc.cxx.o CMakeFiles/vm.dir/vm_space.cxx.o
+/usr/bin/ranlib ../../../release/linux/Debug/libvm.a

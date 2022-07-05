@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../release/linux/Debug/libdb.a CMakeFiles/db.dir/mysql_def.cxx.o CMakeFiles/db.dir/mysql_wrap.cxx.o CMakeFiles/db.dir/tredis.cxx.o
+/usr/bin/ranlib ../../../release/linux/Debug/libdb.a
